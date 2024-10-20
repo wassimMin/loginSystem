@@ -1,0 +1,28 @@
+Login : 
+
+Two Inputs : 
+User Name / Email 
+PassWord
+
+Check If Account Exist In the DataBase Login Else Return Error message
+
+
+
+
+
+
+
+
+
+
+Register:
+
+Inputs:
+
+First Name
+Last Name
+UserName ( Maybe Reccomende A UserName Based On the first name and last name )
+Email -> if not exist 
+password ( hashed password)
+confirm password
+
